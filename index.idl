@@ -21,8 +21,6 @@ You can use standard html tags if a
 component with the same name
 doesn't exist.
 
-Cool!
-
 You can also include code samples.
 
 ```js
